@@ -1,0 +1,10 @@
+{
+  "body": {
+    "subject": "server.local",
+    "issuer": "Demo CA",
+    "server_public_key": "O4JtgBSsk37Nx14VhQmX4YP39SzPqxOUbUAZNuHvmm0=",
+    "valid_from": "2026-05-05",
+    "valid_to": "2026-12-31"
+  },
+  "signature": "vQOcXAWfEXnZyhe61/R3Gr9azCJx3RqPkYlBTT9F2t359WKdgaML5OeyE/O38VEuVDyQLyNTyMyRe5J98L1NCA=="
+}
